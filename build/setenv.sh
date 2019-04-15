@@ -2,6 +2,7 @@
 
 # uncomment next line and set to your local jdk
 #export RELADOMO_JDK_HOME=/opt/jdk1.6.0_45
+export RELADOMO_JDK_HOME=${JAVA_HOME}
 
 # no need to modify stuff below:
 

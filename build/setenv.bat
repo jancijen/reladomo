@@ -1,4 +1,5 @@
-set JDK_HOME=c:\devel\jdk1.6.0_45
+@REM set JDK_HOME=c:\devel\jdk1.6.0_45
+set JDK_HOME=%JAVA_HOME%
 
 @REM no need to modify stuff below:
 
